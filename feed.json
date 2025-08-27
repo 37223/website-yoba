@@ -2,16 +2,16 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "yoba",
     "description": "",
-    "home_page_url": "https://37223.github.io/website-yoba",
-    "feed_url": "https://37223.github.io/website-yoba/feed.json",
+    "home_page_url": "https://yoba.party",
+    "feed_url": "https://yoba.party/feed.json",
     "user_comment": "",
     "author": {
         "name": "yoba"
     },
     "items": [
         {
-            "id": "https://37223.github.io/website-yoba/hello.html",
-            "url": "https://37223.github.io/website-yoba/hello.html",
+            "id": "https://yoba.party/hello/",
+            "url": "https://yoba.party/hello/",
             "title": "hello 2",
             "summary": "hello",
             "content_html": "<p>hello</p>",

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>yoba</title>
+    <link href="https://37223.github.io/website-yoba/feed.xml" rel="self" />
+    <link href="https://37223.github.io/website-yoba" />
+    <updated>2025-08-27T14:37:29-06:00</updated>
+    <author>
+        <name>yoba</name>
+    </author>
+    <id>https://37223.github.io/website-yoba</id>
+
+    <entry>
+        <title>hello 2</title>
+        <author>
+            <name>yoba</name>
+        </author>
+        <link href="https://37223.github.io/website-yoba/hello.html"/>
+        <id>https://37223.github.io/website-yoba/hello.html</id>
+
+        <updated>2025-08-27T14:35:24-06:00</updated>
+            <summary>
+                <![CDATA[
+                    hello
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>hello</p>
+            ]]>
+        </content>
+    </entry>
+</feed>

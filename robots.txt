@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://37223.github.io/website-yoba/sitemap.xml
